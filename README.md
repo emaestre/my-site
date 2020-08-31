@@ -1,5 +1,5 @@
 # MERN Bootcamp
 
-## Section 5 - Intermidiate CSS
+## Section 5 - Intermediate CSS
 
 Development of Personal Website
